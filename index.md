@@ -7,7 +7,7 @@ My interests lie in machine learning and econometrics.
 Contact: cngxu@ucdavis.edu
 
 # STA 141B
-- ### [Assignment 1: The Doomsday Algorithm and 1978 Birthdays]("Assignment_1_revised.ipynb")
+- ### [Assignment 1: The Doomsday Algorithm and 1978 Birthdays](Assignment_1_revised.ipynb)
   Some basic string and time methods.
 - ### [Assignment 2: Image Processing Basics and Singular Value Decomposition](Assignment_2(Cong_Xu)-1.ipynb)
   The usage of numpy
